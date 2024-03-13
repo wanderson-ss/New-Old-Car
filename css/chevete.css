@@ -1,0 +1,65 @@
+body {
+    background-color: #CC3B2C;
+    margin: 0;
+    padding: 0;
+    font-family: "Lexend Deca", sans-serif;
+}
+
+header {
+    background-color: #000000;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.info{
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.info p{
+    color: aliceblue;
+}
+
+.imgchevete{
+    max-width: 700px;
+    height: auto;
+    margin-top:20px ;
+    border: 6px solid #CC3B2C;
+}
+
+main{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+header h1{
+    color: aliceblue;
+}
+
+.info h2{
+    font-size: 1.5em;
+}
+
+a{
+    background-color: #000000;
+    color: azure;
+    margin-top: 20px;
+    text-decoration: none;
+    border: 1px solid #000000;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: right;
+}
+a:hover {
+    background-color: #fffbfb;
+    color: #000000;
+}
+
+.retorno{
+    text-align: center;
+}
